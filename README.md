@@ -10,7 +10,8 @@
   <img align="center" alt="Diogo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Diogo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Diogo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Diogo-pic" height="250" style="border-radius:50px;" src=https://i.redd.it/1mtzh7nqwkq81.jpg
+  <img align="right" alt="Diogo-pic" height="250" style="border-radius:50px;" src=https://i.redd.it/1mtzh7nqwkq81.jpg>
+  <img align="center" alt="Diogo-Java" heigth="20" width="30" src="https://cdn-icons.flaticon.com/png/128/644/premium/644650.png?token=exp=1657888705~hmac=a876942dd88fa2170ba77c617dbe57f7">
 </div>
 
 ##
